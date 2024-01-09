@@ -10,13 +10,13 @@ Design and develop a visually appealing and user-friendly landing page that clea
 ## Design Choices:
 
 * Hero Section:
-* <br>
+  <br>
 -Animated Large banner image showcasing popular Hotstar content (movies, shows, sports).<br>
 -Bold headline highlighting the value proposition of each plan.<br>
 -Prominent call-to-action button which shows various options or plans available.<br>
 
 * Pricing Table:
-* <br>
+  <br>
 -Simple and clean layout with clear differentiation between plans.<br>
 -Key features and benefits listed for each plan in a concise and scannable format.<br>
 -Use of contrasting colors and visual cues to emphasize the most premium plan.<br>
@@ -24,7 +24,7 @@ Design and develop a visually appealing and user-friendly landing page that clea
 -some hover effect on each buttons.<br>
 
 * Footer:
-* <br>
+ <br>
 -Include links to FAQs, terms of service, and other relevant information.<br>
 -Add social media icons to encourage further engagement.<br>
 
